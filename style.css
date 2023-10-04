@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;900&display=swap");
+body{
+    background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#logo{
+    position: relative;
+    left: 45%;
+    height: 70px;
+}
+.ind{
+    background-color:#005fa2;
+    height: 50%;
+    width: 30%;
+    border-radius: 15px;
+}
+.ball{
+    display: inline block;
+    background-color: white;
+    height: 47px;
+    width: 40px;
+    padding-left: 25px;
+    padding-top: 11px;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+.scroecard{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+#ind{
+    position: relative;
+    left: 35%;
+    padding-top: 15%;
+    color: white;
+    font-size: 5rem;
+}
+h2{
+    position: relative;
+    left: 43%;
+    bottom: 50%;
+    font-size: 3rem;
+    color: white;
+}
+
+
+
+.pak{
+    background-color:#1fa83d;
+    height: 50%;
+    width: 30%;
+    border-radius: 15px;
+}
+.ball1{
+    display: inline block;
+    background-color: white;
+    height: 47px;
+    width: 40px;
+    padding-left: 25px;
+    padding-top: 11px;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+.scroecards{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+#pak{
+    position: relative;
+    left: 35%;
+    padding-top: 15%;
+    color: white;
+    font-size: 5rem;
+}
+h2{
+    position: relative;
+    left: 43%;
+    bottom: 50%;
+    font-size: 3rem;
+    color: white;
+}
+.scr{
+    position: relative;
+    top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    height: 50px;
+    position: relative;
+    left: 40%;
+    top: 180px;
+    display: flex;
+    flex-direction: row;
+    height: 5%;
+}
+#redo{
+    position: relative;
+    right: 17px;
+    height: 45%;
+}
+#strike{
+    position: relative;
+    height: 45%; 
+    left: 40px;
+}
